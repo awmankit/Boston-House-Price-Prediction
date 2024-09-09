@@ -1,4 +1,4 @@
-# Boston-House-Price-Prediction
+# Boston-House-Price-Prediction-Using-Linear-Regression
 
 The Boston Housing Dataset is a derived from information collected by the U.S. Census Service concerning housing in the area of Boston MA. The following describes the dataset columns:
 
